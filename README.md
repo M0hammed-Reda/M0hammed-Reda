@@ -26,6 +26,7 @@ Feel free to connect with me if you're interested in collaborating on any exciti
 - **LinkedIn**: https://www.linkedin.com/in/mohammed--reda/
 - **Facebook**: https://www.facebook.com/mohamedreda.mohamed.921/
 - **Instagram**: https://www.instagram.com/mohamed_reda_10_01/
+- **Telegram**: https://t.me/M07ammed_reda
 
 Looking forward to connecting with you! 😊
 
