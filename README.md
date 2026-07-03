@@ -1,4 +1,3 @@
-```md
 <h1 align="center">Hi, I'm Mohamed Reda 👋</h1>
 <h3 align="center">Computer Science Student | Competitive Programmer | Systems Programming Enthusiast</h3>
 
@@ -64,4 +63,3 @@
 </div>
 
 ---
-```
